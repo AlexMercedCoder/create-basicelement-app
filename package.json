@@ -1,13 +1,13 @@
 {
   "name": "create-basicelement-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This is a command-line tool for generating BasicElement Projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create-BasicElement-app": "index.js"
+    "create-basicelement-app": "index.js"
   },
   "repository": {
     "type": "git",
